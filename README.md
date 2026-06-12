@@ -7,7 +7,7 @@ Netherlands Institute for Neuroscience · University of Amsterdam
 
 ## Overview
 
-This repository contains the analysis notebooks and summary data tables used to generate all statistical results and figures in the manuscript. Male rats were recorded with Neuropixels probes spanning the dorsal, intermediate, and ventral hippocampus while they observed a conspecific receive footshocks in one context (shock context) but not in another (safe context). Neural activity was tracked across three phases: shock observation, post-learning rest, and contextual recall.
+This repository contains the analysis notebooks and summary data tables used to generate statistical results and figures in the manuscript. Male rats were recorded with Neuropixels probes spanning the dorsal, intermediate, and ventral hippocampus while they observed a conspecific receive footshocks in one context (shock context) but not in another (safe context). Neural activity was tracked across three phases: shock observation, post-learning rest, and contextual recall.
 
 The main findings are:
 - Pyramidal neurons were recruited by shock observation, with an enrichment of shock-excited cells in the **intermediate hippocampus**.
@@ -32,7 +32,7 @@ Each notebook loads one or more summary Parquet/CSV tables (see **Data** below),
 
 ## Data
 
-Summary data tables are deposited at [repository/DOI TBD]. Set the `Folder_path` variable at the top of each notebook to the directory containing these files:
+Summary data tables are deposited at [(https://osf.io/7jkn9/overview)]. Set the `Folder_path` variable at the top of each notebook to the directory containing these files:
 
 | File | Used in |
 |---|---|
