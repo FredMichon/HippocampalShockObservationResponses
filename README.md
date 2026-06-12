@@ -12,7 +12,7 @@ This repository contains the analysis notebooks and summary data tables used to 
 The main findings are:
 - Pyramidal neurons were recruited by shock observation, with an enrichment of shock-excited cells in the **intermediate hippocampus**.
 - Shock-observation responses scaled with place-field firing, revealing a **conjunctive spatial–social code** in the dorsal and intermediate hippocampus.
-- Shock-context spatial representations were selectively **stabilised** in the intermediate hippocampus after learning.
+- Shock-context spatial representations were comparatively **stabilised** in the intermediate hippocampus after learning.
 - Post-learning SWRs preferentially **reactivated shock-context ensemble patterns**, most strongly in animals expressing contextual freezing at recall (RECALLER).
 
 ---
